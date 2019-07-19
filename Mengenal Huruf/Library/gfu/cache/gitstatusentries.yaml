@@ -1,0 +1,501 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2019-07-19T20:45:24.745+07:00
+  initializedAtString: 2019-07-19T20:41:14.906+07:00
+  entries:
+  - path: Mengenal Huruf\Assembly-CSharp.csproj
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mengenal Huruf\Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mengenal Huruf\Assembly-CSharp-firstpass.csproj
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Assembly-CSharp-firstpass.csproj
+    projectPath: Assembly-CSharp-firstpass.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mengenal Huruf\Assets\Plugins\GitHub\Editor.meta
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Library\assetDatabase3
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mengenal Huruf\Library\CurrentLayout.dwlt
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mengenal Huruf\Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mengenal Huruf\Library\EditorInstance.json
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Library\ProjectSettings.asset
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\ProjectSettings.asset
+    projectPath: Library\ProjectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mengenal Huruf\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mengenal Huruf\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mengenal Huruf\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mengenal Huruf\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mengenal Huruf\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mengenal Huruf\Library\ScriptAssemblies\Assembly-CSharp-firstpass.pdb
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\ScriptAssemblies\Assembly-CSharp-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mengenal Huruf\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Mengenal Huruf\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mengenal Huruf\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mengenal Huruf\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mengenal Huruf\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mengenal Huruf\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mengenal Huruf\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.pdb
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mengenal Huruf\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mengenal Huruf\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mengenal Huruf\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mengenal Huruf\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mengenal Huruf\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mengenal Huruf\Library\StateCache\Hierarchy\9bff13-mainStage.json
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Library\StateCache\Hierarchy\9bff13-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\9bff13-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mengenal Huruf\ProjectSettings\ProjectSettings.asset
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Mengenal Huruf\Temp\Unity.Analytics.DataPrivacy.dll
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Temp\Unity.Analytics.DataPrivacy.dll
+    projectPath: Temp\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Temp\Unity.Analytics.DataPrivacy.pdb
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Temp\Unity.Analytics.DataPrivacy.pdb
+    projectPath: Temp\Unity.Analytics.DataPrivacy.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Temp\Unity.TextMeshPro.dll
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Temp\Unity.TextMeshPro.dll
+    projectPath: Temp\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Temp\Unity.TextMeshPro.pdb
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Temp\Unity.TextMeshPro.pdb
+    projectPath: Temp\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Temp\UnityLockfile
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Temp\UnityTempFile-02e1608f0c369e845bfefb0957f4a01a
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Temp\UnityTempFile-02e1608f0c369e845bfefb0957f4a01a
+    projectPath: Temp\UnityTempFile-02e1608f0c369e845bfefb0957f4a01a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Temp\UnityTempFile-0fd1728edc0a65d4ca80988da469067f
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Temp\UnityTempFile-0fd1728edc0a65d4ca80988da469067f
+    projectPath: Temp\UnityTempFile-0fd1728edc0a65d4ca80988da469067f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Temp\UnityTempFile-2ddf7f11461cb6d4fa9cd64f7219fced
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Temp\UnityTempFile-2ddf7f11461cb6d4fa9cd64f7219fced
+    projectPath: Temp\UnityTempFile-2ddf7f11461cb6d4fa9cd64f7219fced
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Temp\UnityTempFile-333e24ff89aa6714da72df19ca17519f
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Temp\UnityTempFile-333e24ff89aa6714da72df19ca17519f
+    projectPath: Temp\UnityTempFile-333e24ff89aa6714da72df19ca17519f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Temp\UnityTempFile-3d5a56b46efc04d429312cb918f6ef8c
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Temp\UnityTempFile-3d5a56b46efc04d429312cb918f6ef8c
+    projectPath: Temp\UnityTempFile-3d5a56b46efc04d429312cb918f6ef8c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Temp\UnityTempFile-41ec46ead8cb65d4797762bf4002ec15
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Temp\UnityTempFile-41ec46ead8cb65d4797762bf4002ec15
+    projectPath: Temp\UnityTempFile-41ec46ead8cb65d4797762bf4002ec15
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Temp\UnityTempFile-4544b4f7293d1204088a83a58ab2628f
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Temp\UnityTempFile-4544b4f7293d1204088a83a58ab2628f
+    projectPath: Temp\UnityTempFile-4544b4f7293d1204088a83a58ab2628f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Temp\UnityTempFile-4596f837eba42314fbde3b086ba5d0d6
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Temp\UnityTempFile-4596f837eba42314fbde3b086ba5d0d6
+    projectPath: Temp\UnityTempFile-4596f837eba42314fbde3b086ba5d0d6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Temp\UnityTempFile-4bbdc9b808274b54780b79a5e6c8c798
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Temp\UnityTempFile-4bbdc9b808274b54780b79a5e6c8c798
+    projectPath: Temp\UnityTempFile-4bbdc9b808274b54780b79a5e6c8c798
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Temp\UnityTempFile-525df749ed40ec845a04556f31dca7c9
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Temp\UnityTempFile-525df749ed40ec845a04556f31dca7c9
+    projectPath: Temp\UnityTempFile-525df749ed40ec845a04556f31dca7c9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Temp\UnityTempFile-573cebf9e3ca3a844abc29d83908bbf0
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Temp\UnityTempFile-573cebf9e3ca3a844abc29d83908bbf0
+    projectPath: Temp\UnityTempFile-573cebf9e3ca3a844abc29d83908bbf0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Temp\UnityTempFile-9f6a033199f21504780c3a52e48767f8
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Temp\UnityTempFile-9f6a033199f21504780c3a52e48767f8
+    projectPath: Temp\UnityTempFile-9f6a033199f21504780c3a52e48767f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Temp\UnityTempFile-a7e0d2b708a34a049868f79a1d88ee00
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Temp\UnityTempFile-a7e0d2b708a34a049868f79a1d88ee00
+    projectPath: Temp\UnityTempFile-a7e0d2b708a34a049868f79a1d88ee00
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Temp\UnityTempFile-b356578cab6e2a241aeb07d29a3f5010
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Temp\UnityTempFile-b356578cab6e2a241aeb07d29a3f5010
+    projectPath: Temp\UnityTempFile-b356578cab6e2a241aeb07d29a3f5010
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Temp\UnityTempFile-b53f4402d9f24884097d5eb0c87bab3e
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Temp\UnityTempFile-b53f4402d9f24884097d5eb0c87bab3e
+    projectPath: Temp\UnityTempFile-b53f4402d9f24884097d5eb0c87bab3e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Temp\UnityTempFile-bba1b4ca8b952c646a096826307d733b
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Temp\UnityTempFile-bba1b4ca8b952c646a096826307d733b
+    projectPath: Temp\UnityTempFile-bba1b4ca8b952c646a096826307d733b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Temp\UnityTempFile-be4912414415f2042b3b189ee2561bd0
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Temp\UnityTempFile-be4912414415f2042b3b189ee2561bd0
+    projectPath: Temp\UnityTempFile-be4912414415f2042b3b189ee2561bd0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Temp\UnityTempFile-c3687484071e9834a8611d5759238876
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Temp\UnityTempFile-c3687484071e9834a8611d5759238876
+    projectPath: Temp\UnityTempFile-c3687484071e9834a8611d5759238876
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Temp\UnityTempFile-c9afd224105311b4aa18825d1afccf7c
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Temp\UnityTempFile-c9afd224105311b4aa18825d1afccf7c
+    projectPath: Temp\UnityTempFile-c9afd224105311b4aa18825d1afccf7c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Mengenal Huruf\Temp\UnityTempFile-d7f488962cbfd2e469753f0340c9aac1
+    fullPath: C:\Users\Hanafi\Documents\Unity Project\Paket Tugas\Mengenal Huruf\Mengenal
+      Huruf\Temp\UnityTempFile-d7f488962cbfd2e469753f0340c9aac1
+    projectPath: Temp\UnityTempFile-d7f488962cbfd2e469753f0340c9aac1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
